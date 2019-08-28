@@ -17,5 +17,8 @@ Other classes/functions will overwrite the default as needed
 
 Currently only supports:  
 ...Name:..............Identifier:
+
 ATMEGA328p...........UP_ATMEGA328p
+
+More to come. :)
   
