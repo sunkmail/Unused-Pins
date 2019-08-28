@@ -7,7 +7,7 @@ Currenly only used at start of a program to set ALL pins as inputs with Pullup.
 ..Later instructions used to set-up all used pins.
 
 Usage:                                                              
-...initiate before any other Class or pinMode setup.                   
+...initiate before any other Class or pinMode setup.
 ...ie:
 .......#include "UnusedPins.h"         // Should be first after Arduino.h header
 .......// setup unused pins for 328p
