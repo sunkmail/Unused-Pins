@@ -1,0 +1,18 @@
+#
+#	Syntax Colouring for unusedPins Library
+#
+
+#	Created in VS Code (from user Template) on:  2019-08-26
+#	Created by: sunkm
+
+
+# Datatypes (Such as Objects)
+UnusedPins KEYWORD1
+
+
+# Methods/Functions
+unusedPins KEYWORD2
+default328p KEYWORD2
+
+# Constants
+UP_ATMEGA328p KEYWORD3
